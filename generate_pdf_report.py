@@ -95,7 +95,7 @@ def build_main_report():
     story = []
 
     # Title & Metadata
-    story.append(Paragraph("國立成功大學 多元線性回歸實踐與 CRISP-DM 分析報告", title_style))
+    story.append(Paragraph("國立中興大學 多元線性回歸實踐與 CRISP-DM 分析報告", title_style))
     story.append(Paragraph("學生學號：7115056142 &nbsp;|&nbsp; 課程：機器學習與統計分析 &nbsp;|&nbsp; 作業：HW2", subtitle_style))
     story.append(HRFlowable(width="100%", thickness=1.5, color=colors.HexColor('#6366f1'), spaceAfter=12))
 

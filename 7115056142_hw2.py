@@ -1,6 +1,6 @@
 """
 ================================================================================
-國立成功大學 / 課程作業：多元線性回歸 (Multiple Linear Regression) 完整分析
+國立中興大學 / 課程作業：多元線性回歸 (Multiple Linear Regression) 完整分析
 學號：7115056142
 作業名稱：HW2 多元線性回歸分析與 CRISP-DM 實務
 資料集：Kaggle Playground Series s4e5 (Regression with a Flood Prediction Dataset)

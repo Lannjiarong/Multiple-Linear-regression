@@ -6,7 +6,7 @@ notebook = {
    "cell_type": "markdown",
    "metadata": {},
    "source": [
-    "# 國立成功大學 多元線性回歸 (Multiple Linear Regression) 實戰分析\n",
+    "# 國立中興大學 多元線性回歸 (Multiple Linear Regression) 實戰分析\n",
     "## 課程作業：HW2 多元線性回歸與 CRISP-DM 全流程實踐\n",
     "**學號：** 7115056142  \n",
     "**資料集來源：** Kaggle Playground Series Season 4 Episode 5 (S4E5) - [Regression with a Flood Prediction Dataset](https://www.kaggle.com/competitions/playground-series-s4e5)  \n",
